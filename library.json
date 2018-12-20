@@ -1,0 +1,16 @@
+{
+    "name": "esp-stack-decoder",
+    "keywords": "esp32 esp8266 exception stack trace",
+    "description": "Library to allow ESP stack decoding for PlatformIO",
+    "repository":
+    {
+      "type": "git",
+      "url": "https://github.com/milesburton/Arduino-Temperature-Control-Library.git"
+    },
+    "version": "0.1",
+    "frameworks": "arduino",
+    "platforms": ["espressif32"],
+    "build": {
+        "extraScript": "extra_script.py"
+    }
+  }
