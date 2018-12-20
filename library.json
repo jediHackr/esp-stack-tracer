@@ -1,11 +1,11 @@
 {
-    "name": "esp-stack-decoder",
+    "name": "esp-stack-tracer",
     "keywords": "esp32 esp8266 exception stack trace",
     "description": "Library to allow ESP stack decoding for PlatformIO",
     "repository":
     {
       "type": "git",
-      "url": "https://github.com/milesburton/Arduino-Temperature-Control-Library.git"
+      "url": "https://github.com/jediHackr/esp-stack-tracer.git"
     },
     "version": "0.1",
     "frameworks": "arduino",
